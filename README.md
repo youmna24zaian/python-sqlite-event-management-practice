@@ -6,6 +6,30 @@ A hands-on **Python and SQLite** practice project focused on relational data, SQ
 
 The project models an event-management business using three related tables: staff, events, and event assignments. The notebook creates the tables, inserts sample data, and works through eight SQL exercises.
 
+## Visual Gallery
+
+The following images are portfolio visuals related to SQLite, Python database connectivity, and the event-management practice project. Dashboard-style and chart-style graphics are illustrative visuals; use the notebook queries as the source of truth for any exact figures or analytical conclusions.
+
+![SQLite and Python service cover](images/01-sqlite-python-cover.png)
+
+*SQLite + Python — cover visual for the database integration service.*
+
+![Event data visualization](images/02-event-data-visualization.png)
+
+*Event data visualization — an example of presenting event-related data.*
+
+![Event analytics dashboard](images/03-event-analytics-dashboard.png)
+
+*Event analytics dashboard — a visual layout for summarizing event information.*
+
+![Database query results](images/04-database-query-results.png)
+
+*Database query results — a visual example of relational tables and query output.*
+
+![Event cost analysis](images/05-event-cost-analysis.png)
+
+*Event cost analysis — a visual example related to staff assignments and event costs.*
+
 ## Database Structure
 
 | Table | Purpose |
@@ -110,7 +134,7 @@ The notebook creates a local SQLite database named `Online_Course` in the curren
 ## Repository Contents
 
 - `event_management_database_practice.ipynb` — database setup, sample data, and eight SQL exercises
-- `images/` — project banner and diagrams used throughout this README
+- `images/` — project banner, database diagrams, and portfolio visuals used throughout this README
 - `.gitignore` — excludes local Python artifacts and the generated database file
 
 ## Learning Objectives
